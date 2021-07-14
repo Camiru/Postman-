@@ -4,12 +4,12 @@ Postman 的基本操作與整合到Jenkins測試<br /><br />
 Postman是個可以測試網站API的免費軟體<br />
 一開始需到https://www.postman.com/downloads/ 下載此軟體<br />
 
-# Method 請求方法 | 小助理替你服務的類型，常見有四個<br />
+### Method 請求方法 | 小助理替你服務的類型，常見有四個<br />
 GET，取得 (GET) 資料<br />
 POST，新增 (Create) 資料<br />
 PUT，更新 (Update) 資料<br />
 DELETE，刪除 (Delete) 資料<br />
-# URL 請求網址 | 小助理要到哪裡執行你交辦的任務 <br /><br />
+### URL 請求網址 | 小助理要到哪裡執行你交辦的任務 <br /><br />
 
 我們會在請求三個地方，附加特定資訊，提供請求的細部設定，分別是 URL 網址、Header、Body<br />
 
